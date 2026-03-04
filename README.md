@@ -188,8 +188,8 @@ graph TD
 
 Для обеспечения модульности и удобства поддержки система разделена на специализированные репозитории:
 
-1. [**toolbox-app**](https://github.com/khomenko/etl-toolbox) — Ядро системы на Python. Содержит логику маппинга, трансформации, валидации, ORM-модели и интеграционные скрипты для внешних API.
-2. [**airflow-prod**](https://github.com/khomenko/airflow-pharma-orchestration) — Репозиторий с описанием DAG-ов и операторами для управления жизненным циклом данных.
+1. [**toolbox-app**](https://github.com/khomenkoalx/etl-toolbox) — Ядро системы на Python. Содержит логику маппинга, трансформации, валидации, ORM-модели и интеграционные скрипты для внешних API.
+2. [**airflow-prod**](https://github.com/khomenkoalx/airflow-pharma-orchestration) — Репозиторий с описанием DAG-ов и операторами для управления жизненным циклом данных.
 
 
 ---
